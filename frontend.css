@@ -1,0 +1,263 @@
+.upperdiv{
+    background-color: rgb(82, 8, 8);
+    border-bottom: 10px solid orangered;
+    color: #FFF;
+    display: flex;
+}
+.button1{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 60px;
+    border-radius:50px; 
+    color: #FFF;
+    margin-top: -15px;
+}
+body{
+    margin: 0px;
+}
+header{
+    border: 1px grey ;
+}
+.division1{
+    background-color: brown;
+    border-bottom: 10px solid orangered;
+    border-top: 10px solid brown;
+}
+ul{
+    color: white;
+    display: flex;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    color: white;
+    padding-top: 30px;
+    padding-left: 8px;
+    font-size: 20px;
+    margin-left: 40px;
+
+}
+.list1{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 30px;
+    border-radius: 70px;
+    color: white;
+}
+.arrange{
+    margin-left: 650px;
+}
+.size{
+    font-size: 70px;   
+}
+.division2{
+    background-color: rgb(21, 21, 21);
+    color: white;
+    padding: 100px;
+}
+.lastdivision{
+    background-color: black;
+    padding: 20px;
+    color: red;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.items{
+    text-align: center;
+    padding: 20px;
+    background: rgb(86, 86, 86);
+    margin: 10px;
+}
+#mycircles{
+    margin-top: 10px;
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: grey;
+    border-width: 15px;
+    text-align: center;
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.image2{
+    width: 300px;
+    height: 350px;
+}
+.two{
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.image1{
+    width: 350px;
+    height: 150px;
+}
+.three{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.four{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.five{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.six{
+    background-color: red;
+        border-color: red;
+        width: 100px;
+        height: 50px;
+        border-radius: 70px;
+        color: white;
+}
+.seven{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.eight{
+    background-color: yellow;
+    border-color:yellow;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.nine{
+    background-color: blue;
+    border-color: blue;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.ten{
+    background-color: green;
+    border-color: green;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white; 
+}
+.eleven{
+    background-color:purple;
+    border-color: purple;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white; 
+}
+.twelve{
+    background-color: rgb(0, 113, 128);
+    border-color: rgb(0, 113, 128);
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white; 
+}
+.thirteen{
+    background-color: rgb(55, 0, 255);
+    border-color:rgb(55, 0, 255);
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white; 
+}
+.fourteen{
+    background-color: blue;
+    border-color: blue;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;  
+}
+.fifteen{
+    background-color: green;
+    border-color: green;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white; 
+}
+.sixteen{
+    background-color: rgb(19, 0, 128);
+    border-color: rgb(19, 0, 128);
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.seventeen{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.eighteen{
+    background-color: blue;
+    border-color: blue;
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    color: white;
+}
+.nineteen{
+    background-color: rgb(0, 174, 255);
+    border-color: rgb(0, 174, 255);
+    width: 100px;
+    height: 50px;
+    color: white;
+    border-radius: 70px;
+}
+.u{
+    color: white;
+}
+.u.li{
+    color: white;
+}
+.u li a {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
